@@ -62,7 +62,7 @@
     "webpack-dev-server": "3.2.1",
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "4.2.0",
-    "yarn": "^1.16.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "GRAPHQL_ENDPOINT=https://api.graph.cool/relay/v1/cjxjh36lp3rn60195pp9jaan2 node scripts/start.js",
